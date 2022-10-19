@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\MeusProjetos\CelularPOO\bin\Debug\net6.0\CelularPOO.exe
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\MeusProjetos\CelularPOO\bin\Debug\net6.0\CelularPOO.deps.json
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\MeusProjetos\CelularPOO\bin\Debug\net6.0\CelularPOO.runtimeconfig.json
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\MeusProjetos\CelularPOO\bin\Debug\net6.0\CelularPOO.dll
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\MeusProjetos\CelularPOO\bin\Debug\net6.0\CelularPOO.pdb
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\MeusProjetos\CelularPOO\obj\Debug\net6.0\CelularPOO.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\MeusProjetos\CelularPOO\obj\Debug\net6.0\CelularPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\MeusProjetos\CelularPOO\obj\Debug\net6.0\CelularPOO.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\MeusProjetos\CelularPOO\obj\Debug\net6.0\CelularPOO.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\MeusProjetos\CelularPOO\obj\Debug\net6.0\CelularPOO.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\MeusProjetos\CelularPOO\obj\Debug\net6.0\CelularPOO.dll
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\MeusProjetos\CelularPOO\obj\Debug\net6.0\refint\CelularPOO.dll
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\MeusProjetos\CelularPOO\obj\Debug\net6.0\CelularPOO.pdb
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\MeusProjetos\CelularPOO\obj\Debug\net6.0\CelularPOO.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\GITHUB\Aulas_Bootcamp_Pottencial_Dev\MeusProjetos\CelularPOO\obj\Debug\net6.0\ref\CelularPOO.dll
